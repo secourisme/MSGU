@@ -8,8 +8,8 @@ Une extension du site [secourisme.net](https://www.secourisme.net/).
 
 ### Contact
 
-Web : [https://www.secourisme.net/]
+Web : [https://www.secourisme.net/]()
 
 Twitter : [@secourisme_net](https://twitter.com/secourisme_net)
 
-Facebook : (https://www.facebook.com/secourisme.net)
+Facebook : [](https://www.facebook.com/secourisme.net)
