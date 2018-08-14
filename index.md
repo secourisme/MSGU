@@ -1,4 +1,4 @@
-## Pages GitHub de secourisme.net
+## Pages GitHub MSGU de secourisme.net
 
 Une extension du site [secourisme.net](https://www.secourisme.net/).
 
